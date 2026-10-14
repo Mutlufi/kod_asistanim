@@ -1,4 +1,4 @@
 # kod_asistanim
 
 
-merhaba
+bu program benim deneme amaçlı açtığım bir depo
